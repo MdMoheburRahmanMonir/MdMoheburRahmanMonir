@@ -1,6 +1,6 @@
 # Hay this is ongoing.
 <br/>
 <img src='image.png' style="border-radius: 50%; border-color: red; border: 5px solid greenyellow; " width="300px" height="300px" alt="">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Md+Mohibur+Rahman;Frontend+Developer+%26+Designer;Crafting+beautiful+and+responsive+web+experiences;Passionate+about+UI%2FUX+%26+Modern+Design" alt="Typing SVG" />
-</p>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=700&pause=999&color=00E13C&width=553&height=75&lines=Hi%2C+I'm+Md+Mohebur+Rahman+Monir;I'm+%3C+Web+Developer+%2F%3E;I'm+%3C+Front+End+Developer+%2F%3E" alt="Typing SVG" /></a>
+</h1>  
