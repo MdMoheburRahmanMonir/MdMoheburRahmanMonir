@@ -1,4 +1,3 @@
- 
 # 🚀 Mohebur Rahman - Portfolio Website
 
 Welcome to my personal developer portfolio website!  
@@ -16,41 +15,66 @@ This is my personal portfolio website built to present:
 - Experience and learning journey
 - Contact information
 
-The goal of this website is to provide a clean, modern, and responsive platform where anyone can quickly understand who I am and what I do.
+Clean UI, responsive design, and modern web development practices are the core focus of this project.
 
 ---
 
 ## ⚡ Features
 
-- Fully responsive design (mobile + desktop)
-- Modern UI/UX design
-- Smooth navigation and clean layout
-- Project showcase section
-- Skills overview section
-- Contact section
-- Optimized performance
+- 📱 Fully Responsive Design
+- 🎨 Modern UI/UX
+- ⚡ Fast & Optimized Performance
+- 📂 Project Showcase Section
+- 🧠 Skills Highlight Section
+- 📬 Contact Section
+- 🌙 Clean & Minimal Design
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js / Next.js (if applicable)
-- **Styling:** Tailwind CSS / CSS3
-- **Icons:** Lucide React, React Icons
-- **Deployment:** Vercel
-- **Version Control:** Git & GitHub
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🧩 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🔐 Authentication
+![BetterAuth](https://img.shields.io/badge/BetterAuth-6366F1?style=for-the-badge&logo=auth0&logoColor=white)
+
+---
+
+### ⚙️ Tools & Deployment
+- Git & GitHub
+- Vercel Deployment
+- REST API Integration
 
 ---
 
 ## 💼 Skills
 
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js / Next.js
-- Tailwind CSS
-- Node.js (basic backend knowledge)
-- REST API Integration
-- Git & GitHub
-- Responsive Web Design
+- ✔ HTML5, CSS3, JavaScript (ES6+)
+- ✔ Tailwind CSS for UI design
+- ✔ React / Next.js (if applicable)
+- ✔ Node.js & Express.js
+- ✔ MongoDB Database Management
+- ✔ Authentication (BetterAuth)
+- ✔ REST API Development
+- ✔ Responsive Web Design
+- ✔ Version Control (Git & GitHub)
 
 ---
 
@@ -58,15 +82,10 @@ The goal of this website is to provide a clean, modern, and responsive platform 
 
 Some featured projects included in this portfolio:
 
-- Booking / Facility Management System
-- Modern Dashboard UI
-- Responsive Web Applications
-- Full Stack CRUD Applications
-
-> More projects are continuously being added as I grow as a developer.
+- 🏟️ Booking / Facility Management System
+- 📊 Admin Dashboard UI
+- 🌐 Responsive Web Applications
+- ⚙️ Full Stack CRUD Applications
 
 ---
-
-## 🚀 Getting Started (For Developers)
-
  
