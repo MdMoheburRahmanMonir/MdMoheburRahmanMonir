@@ -72,7 +72,7 @@ Some featured projects included in this portfolio:
 If you want to run this project locally:
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/MdMoheburRahmanMonir/portfolio.git
 cd portfolio
 npm install
 npm run dev
