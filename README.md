@@ -133,15 +133,18 @@ Clean UI, responsive design, and modern web development practices are the core f
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MdMoheburRahmanMonir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMoheburRahmanMonir&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats-three-indol-88.vercel.app/api?username=MdMoheburRahmanMonir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=MdMoheburRahmanMonir&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMoheburRahmanMonir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
+<img width="55%" src="https://github-readme-stats-three-indol-88.vercel.app/api/top-langs/?username=MdMoheburRahmanMonir&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 ## 📬 Connect With Me
 
 <p align="left">
